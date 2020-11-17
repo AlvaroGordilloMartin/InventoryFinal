@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Inventory</string>
+    <string name="TextView">INVENTORY</string>
+    <string name="tieName">User</string>
+    <string name="tiePassword">Password</string>
+    <string name="tvTitle">Login</string>
+    <string name="btGoogle">Google</string>
+    <string name="btFacebook">Facebook</string>
+    <string name="btSingUp">Sing up</string>
+    <string name="cbRemember">Remember me</string>
+    <string name="chkRemember">Recuerdame</string>
+    <string name="btSignIn">Login</string>
+    <string name="tvTitleSingUp">Register</string>
+    <string name="tieEmail">Email</string>
+    <string name="tieConfirmPassword">ConfirmPassword</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
